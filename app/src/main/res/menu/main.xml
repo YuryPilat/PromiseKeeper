@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/show_all"
+        android:title="@string/SHOW_ALL"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/show_done"
+        android:title="@string/SHOW_DONE"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/show_undone"
+        android:title="@string/SHOW_PROCESSING"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/delete_user"
+        android:title="@string/DELETE_USER"
+        app:showAsAction="never"/>
+</menu>

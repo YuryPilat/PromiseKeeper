@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/_new">
+        <item
+            android:orderInCategory="0"
+            android:id="@+id/add_new"
+            android:icon="@drawable/ic_menu_add"
+            android:title="@string/ADD_NEW_USER" />
+    </group>
+
+    <group android:id="@+id/users_menu" android:checkableBehavior="none">
+        <item
+            android:orderInCategory="1"
+            android:id="@+id/default_promise"
+            android:title="@string/MY_PROMISES" />
+    </group>
+
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Promise Keeper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="prefsName">MainSettings</string>
+    <string name="DB_CREATE_TABLE1">PromisesTable</string>
+    <string name="DB_CREATE_TABLE3">promisesTable</string>
+    <string name="COLUMN_ID">_id</string>
+    <string name="COLUMN_TITLE">title</string>
+    <string name="COLUMN_DESCRIPTION">promise</string>
+    <string name="COLUMN_COUNTER">counter</string>
+    <string name="COLUMN_START_DATE">startdate</string>
+    <string name="COLUMN_END_DATE">enddate</string>
+    <string name="COLUMN_DONE">done</string>
+    <string name="CURRENT_USER">CurrentUser</string>
+    <string name="TABLE_NAME">TableName</string>
+    <string name="SORTING">Sorting</string>
+    <string name="ALL">all</string>
+    <string name="DEFAULT_TABLE">defTable</string>
+    <string name="CHOSEN_MENU_ITEM">ChosenMenuItem</string>
+
+</resources>

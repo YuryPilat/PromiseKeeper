@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Promise Keeper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="prefsName">MainSettings</string>
+    <string name="DB_CREATE_TABLE1">PromisesTable</string>
+    <string name="DB_CREATE_TABLE3">promisesTable</string>
+    <string name="COLUMN_ID">_id</string>
+    <string name="COLUMN_TITLE">title</string>
+    <string name="COLUMN_DESCRIPTION">promise</string>
+    <string name="COLUMN_COUNTER">counter</string>
+    <string name="COLUMN_START_DATE">startdate</string>
+    <string name="COLUMN_END_DATE">enddate</string>
+    <string name="COLUMN_DONE">done</string>
+    <string name="STRING_UNKNOWN">Неизвестно</string>
+    <string name="STRING_PROCESSING">В процессе выполнения</string>
+    <string name="STRING_DONE">Выполнено</string>
+    <string name="PROMISE">Обещание</string>
+    <string name="DESCRIPTION">Подробнее (не обязательно)</string>
+    <string name="NEW_PROMISE">Новое обещание</string>
+    <string name="ADD">Добавить</string>
+    <string name="CANCEL">Отмена</string>
+    <string name="NAME_EXISTS">Такое название уже есть!</string>
+    <string name="FIELD_EMPTY">Ничего не введено!</string>
+    <string name="CURRENT_USER">CurrentUser</string>
+    <string name="MY_PROMISES">Мои обещания</string>
+    <string name="MYPROMISES">Моиобещания</string>
+    <string name="ASK_NO_MORE">Больше не спрашивать</string>
+    <string name="DELETE_ENTRY">Удалить запись?</string>
+    <string name="DELETE">Удалить</string>
+    <string name="INPUT_NAME">Введите имя</string>
+    <string name="NEW_USER">Новый пользователь</string>
+    <string name="TABLE_NAME">TableName</string>
+    <string name="SORTING">Sorting</string>
+    <string name="ALL">all</string>
+    <string name="DEFAULT_TABLE">defTable</string>
+    <string name="ADD_NEW_USER">Добавить пользователя</string>
+    <string name="ADDNEWUSER">Добавитьпользователя</string>
+    <string name="CHOSEN_MENU_ITEM">ChosenMenuItem</string>
+    <string name="DELETE_USER">Удалить текущего пользователя?</string>
+
+    <string name="SHOW_ALL">Показывать все записи</string>
+    <string name="SHOW_DONE">Только выполненные</string>
+    <string name="SHOW_PROCESSING">Только не выполненные</string>
+    <string name="STATISTICS">Статистика</string>
+    <string name="EDIT_DESCRIPTION">Редактировать описание</string>
+    <string name="PROMISE_COUNTER">Сколько раз обещал:</string>
+    <string name="ADDING_DATE">Дата добавления:</string>
+    <string name="DONE_DATE">Дата выполнения:</string>
+    <string name="STATUS">Статус обещания:</string>
+
+    <string name="ENTRY_DELETED">Запись удалена!</string>
+    <string name="ARE_YOU_SURE">Вы уверены?</string>
+    <string name="ENTER_DESCRIPTION">Введите описание</string>
+    <string name="NEW_DESCRIPTION">Описание</string>
+    <string name="DONE">Готово</string>
+
+
+
+</resources>
